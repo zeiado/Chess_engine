@@ -69,6 +69,7 @@ A fully-featured chess engine and modern GUI built entirely in pure HTML, CSS, a
 🚀 Demo
 
 Coming soon... (or add a live link if available)
+
 📁 How to Run
 
 Just open index.html in any browser – no setup required!
