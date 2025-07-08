@@ -1,39 +1,74 @@
+
+♟️ Advanced JavaScript Chess Engine
+
+A fully-featured chess engine and modern GUI built entirely in pure HTML, CSS, and JavaScript – no external dependencies!
 🎯 Engine Strength (1900+ ELO)
 
-Advanced AI with minimax algorithm and alpha-beta pruning
-Smart evaluation using piece values and positional tables
-Move ordering for efficient search
-Difficulty levels from 1200 to 2000+ ELO
-Deep search up to 6 ply (adjustable)
+    Advanced AI using Minimax algorithm with Alpha-Beta pruning
+
+    Smart evaluation: piece values + positional tables
+
+    Move ordering for efficient searching
+
+    Difficulty levels from 1200 to 2000+ ELO
+
+    Adjustable search depth up to 6 plies
 
 🎮 Game Features
 
-Complete chess rules including castling, en passant, pawn promotion
-Legal move validation and check/checkmate detection
-Move history with algebraic notation
-Undo functionality to take back moves
-Position evaluation with visual evaluation bar
-Choose your color (play as white or black)
+    Full implementation of standard chess rules:
+
+        Castling, en passant, pawn promotion
+
+    Legal move validation, check & checkmate detection
+
+    Move history in algebraic notation
+
+    Undo functionality to take back moves
+
+    Position evaluation bar for visual feedback
+
+    Choose to play as White or Black
 
 🎨 Modern GUI
 
-Chess.com-style interface with smooth animations
-Piece highlighting and valid move indicators
-Visual feedback for selected squares and last moves
-Responsive design that works on mobile and desktop
-Professional styling with gradients and shadows
+    Inspired by Chess.com interface
+
+    Smooth animations and responsive design
+
+    Piece highlighting and valid move indicators
+
+    Shows last move and selected piece
+
+    Fully responsive for mobile and desktop
+
+    Stylish UI with gradients, shadows, and polished visuals
 
 🧠 AI Features
 
-Positional understanding with piece-square tables
-Tactical awareness for captures and threats
-Opening principles favoring center control
-Endgame knowledge for better play in late game
-Thinking indicator shows when engine is calculating
+    Positional understanding using piece-square tables
+
+    Tactical awareness of captures, forks, and threats
+
+    Applies opening principles: center control & development
+
+    Endgame knowledge for improved late-game play
+
+    Thinking indicator while engine calculates
 
 🔧 Technical Implementation
 
-Efficient move generation and board representation
-Optimized search with pruning techniques
-Clean, maintainable code structure
-No external dependencies - pure HTML/CSS/JavaScript
+    Efficient board representation and move generation
+
+    Optimized search with pruning and evaluation heuristics
+
+    Written with clean, maintainable code
+
+    No libraries or frameworks – 100% Vanilla JS
+
+🚀 Demo
+
+Coming soon... (or add a live link if available)
+📁 How to Run
+
+Just open index.html in any browser – no setup required!
